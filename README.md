@@ -18,3 +18,7 @@ DS4A capstone project code repo
     |-
 
 ```
+
+
+## DATASETS
+We have some large datasets and will bump up against github storage limits, check out GLFS - https://docs.github.com/en/github/managing-large-files/installing-git-large-file-storage
