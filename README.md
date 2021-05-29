@@ -6,14 +6,11 @@ DS4A capstone project code repo
 ```
 |- notebooks/
     |- 
-|- projectname/
+|- capstone/
     |-
 |- README.md
 |- data/
-    |- raw/
-    |- processed/
-    |- cleaned/
-    |- README.md
+    
 |- scripts/
     |-
 
@@ -21,4 +18,4 @@ DS4A capstone project code repo
 copy
 
 ## DATASETS
-We have some large datasets and will bump up against github storage limits, check out GLFS - https://docs.github.com/en/github/managing-large-files/installing-git-large-file-storage
+Our large datasets will be stored in a google shared drive
