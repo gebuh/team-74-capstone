@@ -1,0 +1,4 @@
+# Ignore everything in this directory, you can use this for data work, but it won't be committed
+*
+# Except this file
+!.gitignore
