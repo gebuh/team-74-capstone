@@ -1,0 +1,6 @@
+# project configurations
+
+DATA:
+  data_folder: /content/drive/Shareddrives/DS4A_2021/Team74/data/
+  raw_folder: raw/
+  clean_folder: cleaned/
