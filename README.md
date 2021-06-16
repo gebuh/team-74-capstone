@@ -15,7 +15,7 @@ DS4A capstone project code repo
     |-
 
 ```
-copy
+
 
 ## DATASETS
 Our large datasets will be stored in a google shared drive
